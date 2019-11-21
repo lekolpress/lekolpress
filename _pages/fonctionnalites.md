@@ -1,0 +1,21 @@
+---
+ID: 522
+post_title: Fonctionnalités
+author: Junior MOISE
+post_excerpt: ""
+layout: page
+permalink: https://lekolpress.com/fonctionnalites/
+published: true
+post_date: 2014-02-10 16:41:28
+---
+[vc_row text_align="center" padding_bottom="80"][vc_column][vc_column_text]
+<h1>LISTES DE FONCTIONNALITÉS
+OU OUTILS DE LA SOLUTION LEKOLPRESS</h1>
+[/vc_column_text][vc_column_text lead="yes"]Nous sélectionnons les meilleurs services dans notre vaste boîte à outils de conception et de développement
+pour créer de superbes listes de fonctionnalités avec des options permettant d'ajouter d'autres outils supplémentaires.[/vc_column_text][/vc_column][/vc_row][vc_row padding_top="80" padding_bottom="80"][vc_column][kleo_divider type="long" text="Solutions et Fonctionnalités de LekolPress"][kleo_gap][kleo_grid type="2" animation="yes"][kleo_feature_item title="SITE WEB POUR ECOLES" icon="streamline-compatible-devices" icon_size="big" icon_position="center"]Créez un site Web gratuit en quelques minutes à l’aide de LekolPress. Pas de pubs. … Créez facilement un site Web en classe; Gérer les comptes de vos étudiants[/kleo_feature_item][kleo_feature_item title="DOMAINE ET EMAILS PERSONNALISES" icon="globe" icon_size="big" icon_position="center"]
+<p style="text-align: left;">Un domaine personnalisé est un nom de marque unique qui identifie un site Web. Obtenez le meilleur domaine et email personnalisé pour votre école ou votre université.</p>
+[/kleo_feature_item][kleo_feature_item title="SYSTÈME DE GESTION SCOLAIRE" icon="graduation-cap" icon_size="big" icon_position="center"]Le <strong>Système de Gestion Scolaire (SMS)</strong> LekolPress permet d’assurer une gestion complète de votre institution et aide votre école à gagner du temps, à améliorer les résultats des élèves et à remplir sa mission.[/kleo_feature_item][kleo_feature_item title="SYSTÈME DE GESTION D'APPRENTISSAGE" icon="graduation-cap" icon_size="big" icon_position="center"]Le <strong>Système de Gestion d'Apprentissage (LMS)</strong> de LekolPress permet d’assurer une gestion complète de votre activité d'enseignement : Presence, syllabus, notes de cours, question et réponses, Evaluation, Examens, interaction avec élèves, parents, professeurs, et la direction.[/kleo_feature_item][kleo_feature_item title="G SUITE APPS FOR EDUCATION" icon="android" icon_size="big" icon_position="center"]Integration de <strong>Google Suite For Education : </strong>Classroom, Gmail, Agenda, Hangout Meet, Drive et Google Documents (Docs, Sheets, Slides, Forms).[/kleo_feature_item][kleo_feature_item title="TRAINING ET WORKSHOP GRATUIT" icon="bullseye" icon_size="big" icon_position="center"]LekolPress organise des événements, des seances de formations, d'ateliers numériques pour la prise en main des outils numériques pédagogiques. Voir notre calendrier...[/kleo_feature_item][kleo_feature_item title="24/7 SUPPORT PERSONNALISE" icon="chat" icon_size="big" icon_position="center"]Obtenez de l’aide à tout moment pour la plate-forme de votre école via le chat WhatsApp, l’assistance téléphonique et les e-mails. Rejoignez notre communauté et commencez à apprendre de nouvelles choses.[/kleo_feature_item][kleo_feature_item title="ACCOMPAGNEMENT NUMÉRIQUE" icon="heart" icon_size="big" icon_position="center"]Demandez une consultation, une formation et un atelier pour la prise en main avec l'un de nos Conseillers pédagogique en charge du numérique.[/kleo_feature_item][/kleo_grid][/vc_column][/vc_row][vc_row][vc_column width="1/2"][vc_column_text]
+<h2>Besoin d'Aide?</h2>
+[/vc_column_text][vc_column_text]NOUS SOMMES ICI POUR VOUS. QUAND VOUS EN AVEZ BESOIN![/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text]
+<h2 class="line">Foire Aux Questions (FAQ)</h2>
+[/vc_column_text][vc_column_text]QUESTIONS ET RÉPONSES, TOUTES CELLES QUI PEUVENT ÊTRE FRÉQUEMMENT DEMANDÉES[/vc_column_text][vc_accordion][vc_accordion_tab title="Section 1"][/vc_accordion_tab][vc_accordion_tab title="Section 2"][/vc_accordion_tab][/vc_accordion][/vc_column][/vc_row]
